@@ -1,18 +1,18 @@
-# CCIS
+# CMSSQL
 <br>
-PHP Web based Contact Center for UA e-commerce businesses based on Asterisk with live connections to Ukrainian local Distributors to monitor in-stock items<br>
-Fetching status of in-out of stock item<br>
-Agents connecting to serve customers and placing orders<br>
+Develop a professional web-based contact center tailored for e-commerce enterprises operating in Ukraine, leveraging the Asterisk telecommunication system. This platform establishes live connections with local Ukrainian distributors to facilitate real-time monitoring of product availability and inventory.<br>
+Professionally acquiring the status of items to ascertain their availability, whether they are currently in stock or out of stock.<br>
+Agents connecting to assist customers and facilitate order placements.<br>
 Placing orders and order management system<br>
 Comprehensive Statistics with focus on customer engagement and business KPI's<br>
 
-To install 
-1. Install asterisk
-2. configure agent phones
-3. copy this project to your server and bind folder to Apache web server
-4. in browser open http://yourip/admin		# will open index.php
-5. add operaors and configure system with DB parameters etc
-6. in browser open http://yourip/internal_portal	# will open index.php
-7. login as operator with credentials configured at Admin
-8. start serving customers
+To set up:
 
+--> Install Asterisk.
+--> Set up and configure agent phones.
+--> Duplicate this project on your server and link a directory to the Apache web server.
+--> Open http://yourip/admin in your web browser to access the index.php file.
+--> Include operators and configure the system using database parameters and other settings.
+--> Visit http://yourip/internal_portal in your browser to access index.php.
+--> Log in as an operator using the credentials configured in the Admin section.
+--> Begin serving customers.
